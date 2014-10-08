@@ -10,7 +10,7 @@ Public Class Form1
             Return
         End If
 
-        ' Convert into a number 
+
         Dim balance As Double, numYears As Integer
         balance = CDbl(amountSt)
 
